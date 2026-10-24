@@ -1,5 +1,3 @@
-# VDGRec: Visual Preference-Guided Diffusion Generation of Cover Images for Image-Based Item Recommendation
-
 
 
 ## Project Structure
